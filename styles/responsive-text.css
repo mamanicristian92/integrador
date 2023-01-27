@@ -1,0 +1,7 @@
+
+
+@media screen and (max-width: 575.98px) {
+    * {
+        font-size: 12px; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+}
