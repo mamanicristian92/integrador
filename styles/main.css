@@ -26,33 +26,20 @@
     margin-left: -3px;
     top: 0;
 }
+/***** link ********/
 .link1:link {
     color: currentColor;
-}
-
-/* visited link */
-.link1:visited {
-    color: currentColor;
-}
-
-/* mouse over link */
-.link1:hover {
-    color: currentColor;
-}
-
-/* selected link */
-.link1:active {
-    color: currentColor;
-}
-.link1:link {
     text-decoration: none;
 }
 .link1:visited {
+    color: currentColor;
     text-decoration: none;
 }
 .link1:hover {
+    color: currentColor;
     text-decoration: underline;
 }
 .link1:active {
+    color: currentColor;
     text-decoration: none;
 }
