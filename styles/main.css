@@ -11,7 +11,6 @@
     background-color: #303845;
     color: white;
 }
-
 .subtitle-color {
     color: #8E9397;
 }
@@ -21,15 +20,7 @@
 .main-text-color {
     color: #37455e;
 }
-.vl {
-    border-left: 1px solid black;
-    height: 500px;
-    position: absolute;
-    left: 50%;
-    margin-left: -3px;
-    top: 0;
-}
-/***** link ********/
+/***** <a> link ********/
 .link1:link {
     color: #243b66;
     text-decoration: none;
