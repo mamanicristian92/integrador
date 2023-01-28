@@ -16,7 +16,10 @@
     color: #8E9397;
 }
 .title-color {
-    color: #383838;
+    color: currentColor;
+}
+.main-text-color {
+    color: #37455e;
 }
 .vl {
     border-left: 1px solid black;
@@ -28,18 +31,18 @@
 }
 /***** link ********/
 .link1:link {
-    color: currentColor;
+    color: #243b66;
     text-decoration: none;
 }
 .link1:visited {
-    color: currentColor;
+    color: #8c8dcc;
     text-decoration: none;
 }
 .link1:hover {
-    color: currentColor;
+    color: #8c8dcc;
     text-decoration: underline;
 }
 .link1:active {
-    color: currentColor;
+    color: #243b66;
     text-decoration: none;
 }
